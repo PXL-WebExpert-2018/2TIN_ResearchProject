@@ -19,7 +19,7 @@ final class EmployeeTest extends TestCase
     }
 
     public function testCanGetObjectAsString(): void{
-        $emp = new Employee('Maarten', 'Sourbron', 1001);
+        $emp = new Employee('Maarteen', 'Sourbron', 1001);
 
         $this->assertEquals(
             '(1001)Maarten Sourbron',
