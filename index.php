@@ -16,7 +16,7 @@
 
         // Define mysql server settings
         $serverName = "localhost";
-        $username = "root";
+        $username = "app";
         $password = "ventieldopje24";
         $dbName = "employees";
 
