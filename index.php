@@ -6,7 +6,7 @@
      <link rel="stylesheet" href="assets/css/style.css">
     </head>
     <body>
-    <h1>PXL-CI/CD Demo application 2020</h1><hr/>
+    <h1>PXL Corona editie - CI/CD Demo application 2020</h1><hr/>
         <?php
         // Use 'composer install' to get dependencies
         // Remember to run tests using PHPUnit: 'vendor/bin/phpunit tests'
